@@ -1,0 +1,28 @@
+name: Smokiiz
+favicon: null
+layout_spectrum: 0.49024969548918307
+typography_spectrum: 0.3457026241812855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8871096572838724
+  lightness: 0.5120676124934107
+  saturation: 0.5856709578074515
+  rhythmicContrast: 0.6419213926419616
+purpose: []
